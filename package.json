@@ -1,0 +1,27 @@
+{
+  "name": "week5_nodejs",
+  "version": "1.0.0",
+  "description": "First Web Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirhmVFX/NodeJS-WebServer.git"
+  },
+  "author": "sirhmvfx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirhmVFX/NodeJS-WebServer/issues"
+  },
+  "homepage": "https://github.com/SirhmVFX/NodeJS-WebServer#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
